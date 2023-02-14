@@ -1,6 +1,6 @@
 Olá eu sou o Bruno Schuaber
 
-- 🔭 Hoje Busco uma Vaga Front-end
+- 🔭 Hoje Busco uma colocarçao na area de Tecnologia.
 - 🌱 estudo Js 
 - 📫 Contate-me no email :brunoschuaber@gmail.com 
 - 😄 Pronouns: Ele\Dele
